@@ -3,7 +3,7 @@ title: "Radiomics analysis of contrast-free synthetic MRI and apparent diffusion
 collection: publications
 category: manuscripts
 excerpt: "This paper contains the main content of my research during my master's program."
-date: 2025-10
+date: 2025-08-02
 venue: "European Journal of Radiology"
 citation: >
   Zhang, Yanni et al.
