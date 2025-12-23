@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Yanni joined the Department of Radiology, Peking University Third Hospital at 2025 as a first-year Ph.D. student under the supervision of [Professor Hongbin Han](http://scholar.pku.edu.cn/hongbin_han/bio).
+I am a first-year Ph.D. student in the Department of Radiology at Peking University Third Hospital, under the supervision of [Professor Hongbin Han](http://scholar.pku.edu.cn/hongbin_han/bio).
 
-Her research interest focuses on exploring the mechanisms of brain diseases and discovering potential therapeutic targets by investigating the structural and functional properties of the brain extracellular space (ECS).
+My doctoral research focuses on the structural and functional properties of the brain extracellular space (ECS), with the goal of elucidating disease mechanisms and identifying novel therapeutic targets for brain disorders.
 
 You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
