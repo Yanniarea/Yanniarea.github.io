@@ -23,7 +23,7 @@ repository               : "Yanniarea/Yanniarea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/Yanniarea.png"
+  avatar           : "/images/Yanniarea.png"
   name             : "Yanni Zhang （张燕妮）"
   pronouns         : # example: "she/her"  
   bio              : "PhD student of Imaging Medicine and Nuclear Medicine "
