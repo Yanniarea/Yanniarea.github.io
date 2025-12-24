@@ -21,7 +21,7 @@ Education
   
   Supervisor: [Professor Hongbin Han](http://scholar.pku.edu.cn/hongbin_han/bio)
   
-- Sep 2022 – Jun 2025    **M.Med.(Professional) in Radiation Imaging**
+- Sep 2022 – Jun 2025    **M.Med. (Professional) in Radiation Imaging**
  
   China Medical University
   
