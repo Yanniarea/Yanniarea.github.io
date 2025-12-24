@@ -11,7 +11,6 @@ I am a first-year Ph.D. student in the Department of Radiology at Peking Univers
 
 My doctoral research focuses on the structural and functional properties of the brain extracellular space (ECS), with the goal of elucidating disease mechanisms and identifying novel therapeutic targets for brain disorders.
 
-You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Education
 ------
