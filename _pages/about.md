@@ -15,13 +15,18 @@ You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_V
 
 Education
 ------
-- **Sep 2025 – present**  
-  Peking University                     Imaging Medicine and Nuclear Medicine
-**Supervisor:**[Professor Hongbin Han](http://scholar.pku.edu.cn/hongbin_han/bio).
+- Sep 2025 – present    **Ph.D. in Imaging Medicine and Nuclear Medicine**
   
-- **Sep 2022 – Jun 2025**  
-  China Medical University              Radiation Imaging 
-   **Supervisor:**[Professor Lina Zhang](https://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=18790).
+  Peking University
   
-- **Sep 2017 – Jul 2022**  
-  Shandong First Medical University     Medical Imaging
+  Supervisor: [Professor Hongbin Han](http://scholar.pku.edu.cn/hongbin_han/bio)
+  
+- Sep 2022 – Jun 2025    **M.Med.(Professional) in Radiation Imaging**
+ 
+  China Medical University
+  
+  Supervisor: [Professor Lina Zhang](https://cmu.teacher.360eol.com/teacherBasic/preview?teacherId=18790)
+  
+- Sep 2017 – Jul 2022    **B.Med. in Medical Imaging (5-Year Program)**
+  
+  Shandong First Medical University
