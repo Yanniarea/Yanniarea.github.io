@@ -1,5 +1,5 @@
 ---
-You can find my CV here:[Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 ---
 Education
 ======
