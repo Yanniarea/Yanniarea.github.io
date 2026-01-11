@@ -1,14 +1,21 @@
+---
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
+---
 
 You can find my CV here:[Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 ---
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Professional Qualifications
+  * Medical Practitioner License (China)
+* Technical Skills
+  *  Medical Imaging Processing & Analysis
+    * ITK-SNAP
+    * 3D Slicer
+  * Design & Graphics
+    * Adobe Illustrator
 
 Publications
 ======
@@ -22,11 +29,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
