@@ -1,4 +1,3 @@
-yaml
 ---
 layout: default
 title: Curriculum Vitae
