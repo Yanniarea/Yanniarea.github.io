@@ -1,8 +1,11 @@
+yaml
 ---
-layout: page
-title: CV
+layout: default
+title: Curriculum Vitae
 permalink: /cv/
+author: Yanni Zhang
 author_profile: true
+sidebar: true
 ---
 
 You can find my CV here:[Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
