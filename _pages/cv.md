@@ -1,13 +1,12 @@
 ---
-layout: default
-title: Curriculum Vitae
-permalink: /cv/
-author: Yanni Zhang
+layout: archive
+title: "CV"
+permalink: /CV/
 author_profile: true
-sidebar: true
 ---
 
-You can find my CV here:[Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+---
+You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 ---
 Skills
 ======
