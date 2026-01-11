@@ -5,9 +5,8 @@ permalink: /CV/
 author_profile: true
 ---
 
----
 You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
----
+
 Skills
 ======
 ## Professional Qualifications
