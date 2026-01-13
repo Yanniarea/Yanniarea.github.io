@@ -1,7 +1,7 @@
 ---
 title: "Radiomics Analysis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "As the research direction during my master's program, I published a study on radiomics analysis in breast cancer. For details, please refer to the publications. 
+<br/><img src='/images/covwe.tif.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
