@@ -5,8 +5,7 @@ category: manuscripts
 excerpt: "This paper contains the main content of my research during my master's program."
 date: 2025-08-02
 venue: "European Journal of Radiology"
-citation: >
-Zhang, Yanni et al. “Radiomics analysis of contrast-free synthetic MRI and apparent diffusion coefficient for early predicting neoadjuvant chemotherapy response in breast cancer.” European journal of radiology vol. 191 (2025): 112344. doi:10.1016/j.ejrad.2025.112344
+citation: 'Zhang, Yanni et al. “Radiomics analysis of contrast-free synthetic MRI and apparent diffusion coefficient for early predicting neoadjuvant chemotherapy response in breast cancer.” European journal of radiology vol. 191 (2025): 112344. doi:10.1016/j.ejrad.2025.112344'
         
         
         
