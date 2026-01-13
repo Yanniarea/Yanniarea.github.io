@@ -7,6 +7,13 @@ author_profile: true
 
 You can find my CV here: [Yanni Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
+Work experience
+======
+* Sep 2022 – Jun 2025 :  Radiology Resident Physician
+  * Diagnostic Reporting
+  * Clinical rotation
+  * Education & Collaboration
+
 Skills
 ======
 * Professional Qualifications
