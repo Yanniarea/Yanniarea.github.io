@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-autumn-teaching-1
 venue: "Peking University, Institute of Medical Technology"
-date: 2025-10 to 2025-12
+date: 2025-10-10
 location: "Beijing, China"
 ---
 
